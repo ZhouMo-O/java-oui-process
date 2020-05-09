@@ -1,0 +1,149 @@
+10-93-97   (hex)		ARRIS Group, Inc.
+109397     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+10-3D-3E   (hex)		China Mobile Group Device Co.,Ltd.
+103D3E     (base 16)		China Mobile Group Device Co.,Ltd.
+				32 Xuanwumen West Street,Xicheng District
+				Beijing    100053
+				CN
+
+64-CC-22   (hex)		Arcadyan Corporation
+64CC22     (base 16)		Arcadyan Corporation
+				No.8, Sec.2, Guangfu Rd.
+				Hsinchu City  Hsinchu  30071
+				TW
+
+38-F3-2E   (hex)		Skullcandy
+38F32E     (base 16)		Skullcandy
+				6301 N. LANDMARK DRIVE
+				Park City    84098
+				US
+
+E8-E8-B7   (hex)		Murata Manufacturing Co., Ltd.
+E8E8B7     (base 16)		Murata Manufacturing Co., Ltd.
+				1-10-1, Higashikotari
+				Nagaokakyo-shi  Kyoto   617-8555
+				JP
+
+80-20-DA   (hex)		Sagemcom Broadband SAS
+8020DA     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
+18-46-44   (hex)		Home Control Singapore Pte Ltd
+184644     (base 16)		Home Control Singapore Pte Ltd
+				151 Lorong Chuan
+				Singapore    556741
+				SG
+
+E8-C4-17   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+E8C417     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
+
+48-5D-EB   (hex)		Just Add Power
+485DEB     (base 16)		Just Add Power
+				12505 STARKEY RD STE A
+				LARGO  FL  33773
+				US
+
+F8-B7-97   (hex)		NEC Platforms, Ltd.
+F8B797     (base 16)		NEC Platforms, Ltd.
+				2-3 Kandatsukasamachi
+				Chiyodaku  Tokyo  101-8532
+				JP
+
+B0-AA-D2   (hex)		Sichuan tianyi kanghe communications co., LTD
+B0AAD2     (base 16)		Sichuan tianyi kanghe communications co., LTD
+				No.198, section 1, xueshan avenue, jinyuan town, dayi county, sichuan province
+				chengdu  sichuan  611330
+				CN
+
+E8-A4-C1   (hex)		Deep Sea Electronics Ltd
+E8A4C1     (base 16)		Deep Sea Electronics Ltd
+				Highfield House
+				Hunmanby  North Yorkshire  YO14 0PH
+				GB
+
+B0-70-0D   (hex)		Nokia
+B0700D     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+DC-8C-37   (hex)		Cisco Systems, Inc
+DC8C37     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+70-2E-80   (hex)		DIEHL Connectivity Solutions
+702E80     (base 16)		DIEHL Connectivity Solutions
+				Stephanstraße 49
+				Nürnberg  Bayern  90478
+				DE
+
+1C-3A-60   (hex)		Ruckus Wireless
+1C3A60     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+7C-50-DA   (hex)		Private
+7C50DA     (base 16)		Private
+
+BC-9F-E4   (hex)		Aruba, a Hewlett Packard Enterprise Company
+BC9FE4     (base 16)		Aruba, a Hewlett Packard Enterprise Company
+				3333 Scott Blvd
+				Santa Clara  CA  95054
+				US
+
+00-50-C6   (hex)		LOOP TELECOMMUNICATION INTERNATIONAL, INC.
+0050C6     (base 16)		LOOP TELECOMMUNICATION INTERNATIONAL, INC.
+				7F, No. 8, Hsin Ann Road
+				Hsinchu    -   
+				TW
+
+B0-A6-F5   (hex)		Xaptum, Inc.
+B0A6F5     (base 16)		Xaptum, Inc.
+				350 W Ontario ST FL 4
+				Chicago  IL  60654
+				US
+
+E0-CB-1D   (hex)		Private
+E0CB1D     (base 16)		Private
+
+48-77-46   (hex)		Calix Inc.
+487746     (base 16)		Calix Inc.
+				2777 Orchard Parkway
+				San Jose  CA  95134
+				US
+
+00-0B-E4   (hex)		Hosiden Corporation
+000BE4     (base 16)		Hosiden Corporation
+				4-33
+				Yao-city  Osaka  581-0071
+				JP
+
+9C-7B-EF   (hex)		Hewlett Packard
+9C7BEF     (base 16)		Hewlett Packard
+				11445 Compaq Center Drive
+				Houston  TX  77070
+				US
+
+00-0C-6C   (hex)		Corsair Memory, Inc.
+000C6C     (base 16)		Corsair Memory, Inc.
+				47100 Bayside Parkway
+				Fremont  CA  94538
+				US
+
+90-73-5A   (hex)		Motorola Mobility LLC, a Lenovo Company
+90735A     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
